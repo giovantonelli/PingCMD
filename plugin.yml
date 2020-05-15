@@ -2,10 +2,10 @@ name: PingCMD
 main: it.heroeminecratti.ping.Main
 version: 1.1
 author: heroeminecratti
-description: Fix per il comando /pind di essentials
+description: Fix per il comando /ping di essentials
 commands:
    ping:
-      description: Fix per il comando /pind di essentials
+      description: Fix per il comando /ping di essentials
       usage: Sintassi errata! Usa /ping
 permissions:
    pingcmd.me: 
