@@ -1,0 +1,17 @@
+###########################################################################################################################
+#                                                                                                                         #
+#                                                                                                                         #
+#                                                                                                                         #
+#                  Config.yml of the plugin PingCMD,                                                                      #  
+#                                                                                                                         #
+#                 The plugin was created by heroeminecratti                                                               #                                                     
+#                 Designer: Nxtor2                                                                                        #
+#                                                                                                                         #
+#                                                                                                                         #
+#                                                                                                                         #
+###########################################################################################################################
+no-permesso: "&4Non hai il permesso per fare /ping"
+no-player: "&4Non sei un player!"
+prefix: "&6PingCMD &7>>"
+reload-msg: "&aHai riavviato il plugin PingCMD"
+no-permesso-reload: "&4Non hai il permesso per fare riavviare PingCMD"

@@ -1,0 +1,16 @@
+name: PingCMD
+main: it.heroeminecratti.ping.Main
+version: 1.1
+author: heroeminecratti
+description: Fix per il comando /pind di essentials
+commands:
+   ping:
+      description: Fix per il comando /pind di essentials
+      usage: Sintassi errata! Usa /ping
+permissions:
+   pingcmd.me: 
+      description: Accesso al /ping 
+      default: true
+   pingcmd.reload:
+      description: Riavvio del plugin
+      default: op
